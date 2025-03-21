@@ -2,8 +2,8 @@ name: 'AI-based PR Reviewer & Summarizer with Chat Capabilities'
 description: 'AI-based PR Reviewer & Summarizer with Chat Capabilities'
 branding:
   icon: 'git-merge'
-  color: 'orange'
-author: 'CodeRabbit LLC'
+  color: 'blue'
+author: 'Contributrack LLC'
 inputs:
   debug:
     required: false
@@ -238,7 +238,8 @@ inputs:
     required: false
     description: 'The icon for the bot'
     default:
-      '<img src="https://avatars.githubusercontent.com/in/347564?s=41"
+      '<img
+      src=""https://pps.whatsapp.net/v/t61.24694-24/472292359_3796983527223960_3023244496488904769_n.jpg?ccb=11-4&oh=01_Q5AaIUf2ZN-lymy3vROkLv9iDvAb6XRzo8Wf5fQ5OvwXzUN5&oe=67EA3B87&_nc_sid=5e03e0&_nc_cat=100
       alt="Image description" width="20" height="20">'
 runs:
   using: 'node16'
